@@ -125,3 +125,16 @@ If there is any way to run the machine that ends in any set of states out of whi
 ![nfaExp2](./ss/nfaExp2.PNG)  
   
 ![nfaExp3](./ss/nfaExp3.PNG)
+
+#
+Every DFA is an NFA, but not vice versa
+
+But there is an equivalent DFA for every NFA
+
+![dfavsnfadelta](./ss/dfavsnfadelta.PNG)  
+![nfaExp4](./ss/nfaexp4.PNG)  
+![nfaExp5](./ss/nfaExp5.PNG)  
+![nfaToDfa](./ss/nfaToDfa.PNG)  
+
+
+
