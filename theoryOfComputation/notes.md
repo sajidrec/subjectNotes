@@ -135,6 +135,11 @@ But there is an equivalent DFA for every NFA
 ![nfaExp4](./ss/nfaexp4.PNG)  
 ![nfaExp5](./ss/nfaExp5.PNG)  
 ![nfaToDfa](./ss/nfaToDfa.PNG)  
+#
+![nfaExp6](./ss/nfaExp6.PNG)  
+![nfaToDfa2](./ss/nfaToDfa2.PNG)  
 
+#
+![minimalDfa](./ss/minimalDfaEx.PNG)  
 
 
