@@ -142,4 +142,5 @@ But there is an equivalent DFA for every NFA
 #
 ![minimalDfa](./ss/minimalDfaEx.PNG)  
 
-
+#
+![minimalDfa](./ss/minimizationOfDfa.PNG)  
