@@ -150,3 +150,5 @@ A state is said to be Unreachable if there is no way it can be reached from the 
 
 # 
 If there is unreachable state and we want to minimize the dfa then we will remove unreachable states and next job is the same.
+#
+![dfaTableFilling](./ss/dfaTableFilling.PNG)  
