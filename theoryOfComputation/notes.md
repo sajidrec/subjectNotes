@@ -152,3 +152,9 @@ A state is said to be Unreachable if there is no way it can be reached from the 
 If there is unreachable state and we want to minimize the dfa then we will remove unreachable states and next job is the same.
 #
 ![dfaTableFilling](./ss/dfaTableFilling.PNG)  
+
+#
+There are two kinds of automata with outputs -> i) Mealy Machine  ii) Moore Machine
+
+# Mealy Machine and Moore Machine
+![Mealy Machine](./ss/mealyAndMoore.PNG)
