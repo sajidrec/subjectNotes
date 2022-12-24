@@ -158,3 +158,7 @@ There are two kinds of automata with outputs -> i) Mealy Machine  ii) Moore Mach
 
 # Mealy Machine and Moore Machine
 ![Mealy Machine](./ss/mealyAndMoore.PNG)
+
+
+#
+![Mealy Machine ex](./ss/mealyMachineExample.PNG)
