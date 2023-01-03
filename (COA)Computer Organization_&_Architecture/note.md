@@ -30,3 +30,13 @@ Each DRAM memory cell is made up of a transistor and a capacitor within an integ
 
 S.R.A.M. = Static Random Access Memroy (Cache)  
 Static RAM (SRAM) consists of flip-flops, a bistable circuit composed of four to six transistors. Once a flip-flop stores a bit, it keeps that value until the opposite value is stored in it. SRAM gives fast access to data  
+#
+Memory Hierarchy  
+![Memeroy hierarchy](./ss/memoryHierarchy.PNG)  
+
+#
+
+Unit of measuring speed of Processor is MIPS (Million Instruction Per Second)
+
+#
+![hit or miss](./ss/hitOrMissInProcessor.PNG)
