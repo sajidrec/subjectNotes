@@ -168,3 +168,5 @@ There are two kinds of automata with outputs -> i) Mealy Machine  ii) Moore Mach
 
 #
 ![Epsilon nfa](./ss/epsilonNfa.PNG)  
+#
+![Epsilon nfa to Nfa](./ss/epsilonNfaToNfa.PNG)  
