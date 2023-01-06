@@ -170,3 +170,15 @@ There are two kinds of automata with outputs -> i) Mealy Machine  ii) Moore Mach
 ![Epsilon nfa](./ss/epsilonNfa.PNG)  
 #
 ![Epsilon nfa to Nfa](./ss/epsilonNfaToNfa.PNG)  
+
+#
+
+Regular Expressions are used for representing certain sets of strings in an algebraic fashion.  
+
+* To form closure empty set must be present
+
+
+![Regular expressions](./ss/regularExpressoin.PNG)  
+
+#
+![Regular expressions](./ss/regularExExample.PNG)  
