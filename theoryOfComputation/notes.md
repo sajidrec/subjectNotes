@@ -182,3 +182,10 @@ Regular Expressions are used for representing certain sets of strings in an alge
 
 #
 ![Regular expressions](./ss/regularExExample.PNG)  
+
+#
+Identities if regular expression
+
+![Identities of regular expression](./ss/IdentityOfRegularEx.PNG)  
+
+
