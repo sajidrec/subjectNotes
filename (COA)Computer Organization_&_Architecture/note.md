@@ -40,3 +40,8 @@ Unit of measuring speed of Processor is MIPS (Million Instruction Per Second)
 
 #
 ![hit or miss](./ss/hitOrMissInProcessor.PNG)
+
+#
+![questionOne](./ss/questionOne.PNG)  
+![questionOne](./ss/questionTwo.PNG)  
+
