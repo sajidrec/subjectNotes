@@ -188,4 +188,6 @@ Identities if regular expression
 
 ![Identities of regular expression](./ss/IdentityOfRegularEx.PNG)  
 
-
+#
+Designing Regular Expression
+![Designing Regular Expression](./ss/DesigningRegularExpression.PNG)
